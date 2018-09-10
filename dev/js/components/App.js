@@ -96,7 +96,7 @@ class FormikForm extends Component {
                         </Form>
                     )}
                 />
-                <Userlist {...this.props}/>
+                <Userlist/>
             </div>
         )
     }
